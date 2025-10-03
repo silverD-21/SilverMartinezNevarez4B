@@ -1,5 +1,3 @@
-
-
 #Diagnostico_nombre.py
 #Simulador de pedidos
 #Conceptos basicos : variables, inputs, condicionales, funciones y bucles
